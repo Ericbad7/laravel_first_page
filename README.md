@@ -15,4 +15,4 @@ Une application web simple construite avec Laravel qui affiche une page d'accuei
 
 ## Installation
 
-1. Clonez ce dépôt :
+1. Clonez ce dépôt :https://github.com/Ericbad7/laravel_first_page.git
